@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="sensor_checkbox">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="layout_constraintStart_toStartOf">parent</item>
+        <item name="layout_constraintTop_toBottomOf">@id/data_rate</item>
+        <item name="android:text">TYPE_ACCELEROMETER</item>
+        <item name="android:checked">true</item>
+    </style>
+</resources>

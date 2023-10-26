@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sensor Transmitter</string>
+    <string name="ui_ip_port_default">%s:%s</string>
+    <string name="ui_connect">Connect</string>
+    <string name="ui_data_rate_default">%s</string>
+    <string name="ui_tv_ip">IP: %s</string>
+    <string name="ui_tv_port">PORT: %s</string>
+    <string name="ui_ip_port_hint">IP:PORT</string>
+    <string name="ui_data_rate_hint">DATA RATE</string>
+    <string name="ui_btn_exit">Exit</string>
+</resources>
