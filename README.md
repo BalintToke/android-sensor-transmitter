@@ -32,3 +32,19 @@ JSON packet format:
         }
 }
 ```
+
+### Screenshots
+
+<div style="text-align: center">
+<img src="https://btokesoftwares.com/nelson-rule-python/app_main.jpg"
+     alt="Markdown Monster icon"
+     style="width: 30%" 
+     width=300/>
+<img src="https://btokesoftwares.com/nelson-rule-python/app_connect.jpg"
+     alt="Markdown Monster icon"
+     style="width: 30%" 
+     width=300/>
+</div>
+
+### Video
+
