@@ -48,3 +48,5 @@ JSON packet format:
 
 ### Video
 
+https://github.com/BalintToke/android-sensor-transmitter/assets/61911394/3e2e2560-0371-447d-bf40-21d8c304c191
+
